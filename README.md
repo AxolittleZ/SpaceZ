@@ -1,2 +1,2 @@
 # SpaceZ
-Space-Z project
+Мой проект по Space-Z
